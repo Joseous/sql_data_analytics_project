@@ -1,10 +1,10 @@
 /*====================================================================================================
---          Part-To-Whole Analysis
-
--- Analyze how individual aprt is performing compared to the overall
--- Allowing us to understand which category has the greatest impact on the business.
--- ([Measure] / Total[Measure]) * 100 by [dimension]
---=======================================================================================================*/
+          Part-To-Whole Analysis
+======================================================================================================
+ Analyze how individual aprt is performing compared to the overall
+ Allowing us to understand which category has the greatest impact on the business.
+ ([Measure] / Total[Measure]) * 100 by [dimension]
+=======================================================================================================*/
 
 -- which categories contribute the most to overall sales?
 
